@@ -1,0 +1,83 @@
+*body{
+    color: #ccd0c8;
+    background-color: #284b5f ;
+    font-family: Bookman, URW Bookman L, serif;
+} 
+
+header {
+    color: #ccd0c8;
+    background-color: #284b5f ;
+    font-family: Bookman, URW Bookman L, serif;
+    text-align: center;
+    padding: 20px;
+}
+
+nav ul {
+    background-color: #284b5f ;
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 20px;
+    font-size: 20px;
+    text-decoration: none;
+    font-family: Bookman, URW Bookman L, serif;
+}
+
+nav li {
+    background-color: #284b5f ;
+    text-decoration: none;
+    margin-right: 20px;
+    font-family: Bookman, URW Bookman L, serif;
+}
+
+nav a {
+    background-color: #284b5f ;
+    color: #ccd0c8;
+    text-decoration: none;
+    font-family: Bookman, URW Bookman L, serif;
+}
+
+nav a:hover {
+    background-color: #284b5f ;
+    color: #ccd0c8;
+    text-decoration: none;
+    font-family: Bookman, URW Bookman L, serif;
+}
+
+section {
+    background-color: #284b5f ;
+    color: #ccd0c8;
+    padding: 20px;
+    text-align: center;
+    font-family: Bookman, URW Bookman L, serif;
+   
+}
+
+section li{
+    background-color: #284b5f ;
+    text-decoration: none;
+    margin-right: 20px;
+    font-size: 50px;
+    list-style-type: none;
+    font-family: Bookman, URW Bookman L, serif;
+    
+}
+
+section a{
+    background-color: #284b5f ;
+    color: #ccd0c8;
+    text-decoration: none;
+    font-size: 15px;
+    list-style-type: none;
+    font-family: Bookman, URW Bookman L, serif;
+    
+}
+
+section a:hover{
+    background-color: #284b5f ;
+    color: #ccd0c8;
+    text-decoration: none;
+    list-style-type: none;
+    font-family: Bookman, URW Bookman L, serif;
+}
